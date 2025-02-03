@@ -1,14 +1,9 @@
 # Spotify React Clone
 
-Este projeto é uma aplicação web que simula a interface do Spotify, permitindo que os usuários pesquisem músicas, criem playlists e reproduzam faixas. Ele foi implementado utilizando React e outras tecnologias modernas.
+Este projeto é uma aplicação web que simula a interface do Spotify ele foi implementado utilizando React e outras tecnologias modernas.
 
-## Funcionalidades
+![Captura de tela 2025-02-03 165955](https://github.com/user-attachments/assets/231572c0-e21f-44e6-a7cd-98ec76a89426)
 
-- Pesquisa de músicas, álbuns e artistas
-- Criação e gerenciamento de playlists
-- Reprodução de músicas
-- Interface responsiva
-- Modo escuro
 
 ## Tecnologias Utilizadas
 
