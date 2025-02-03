@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+button#toggle-dark-mode.active {
+  background-color: #ffffff;
+  color: #121212;
+}
+
+/* Adicione estilos adicionais para garantir que todos os elementos sejam afetados pelo modo escuro */
+.dark-mode .App {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode .header__navigation {
+  background-color: #333333;
+  box-shadow: 8px 8px 24px #000000, -8px -8px 24px #444444;
+}
+
+.dark-mode .header__search {
+  background-color: #333333;
+  box-shadow: 8px 8px 24px #000000, -8px -8px 24px #444444;
+}
+
+.dark-mode .header__login .login {
+  background-color: #444444;
+  color: #ffffff;
+}
+
+.dark-mode .header__login .login:hover {
+  background-color: #555555;
+  color: #ffffff;
+}
